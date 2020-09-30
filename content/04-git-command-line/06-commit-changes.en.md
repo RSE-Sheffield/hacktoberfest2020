@@ -58,7 +58,7 @@ $ git commit -m 'a descriptive commit message'
 ```
 Use the `git commit` command to commit the staged file(s), with the `-m` option to add a message. Running `git commit` without `-m` will open the default text editor for you to add a message, this is just a bit quicker for a short message.
 
-By convention, commit messages are in the present tense. You can think of them as following the phrase "This commit will..". For instance:
+By convention, [commit messages are in the present tense](https://stackoverflow.com/a/3580764/242457). You can think of them as following the phrase "This commit will..". For instance:
 ```
 $ git commit -m 'add params file for augustinus_vourinus'
 
