@@ -24,7 +24,7 @@ To initiate a pull request (PR) just **click that `New Pull Request` button**.
 
 Once a PR is initiated, GitHub automatically compares your version of the code to that in the upstream repository and checks whether your changes can be merged automatically, ie that they do not create any [merge conflicts](https://help.github.com/articles/about-merge-conflicts/). 
 
-If everything has gone well, GitHub should advise that you are able to merge your changes. To continue, click on the **Create pull request** button.
+If everything has gone well, GitHub should declare that your changes can be merged (note: you might not have permission, someone else might be doing the merging). To continue, click on the **Create pull request** button.
 
 <img src="/images/pr-2.png" width="700px" />
 

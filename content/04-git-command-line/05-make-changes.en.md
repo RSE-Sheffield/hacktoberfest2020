@@ -15,7 +15,7 @@ Let's go ahead and create and complete these files.
 
 #### Make a copy of **`params/params_tmpl.R`**
 
-First **think of a species name based on your name**, eg _Augustinus vourinus_. This will be the species name associated with the evolutionary trajectory defined by the parameters you're going to supply. This is both for for fun, but also to ensure that the **files each participant commits has a unique name**.
+First **think of a species name based on your name**, eg _Augustinus vourinus_. This will be the species name associated with the evolutionary trajectory defined by the parameters you're going to supply. This is both for for fun, but also to ensure that the **files each participant commits have unique names**.
 
 Now, **make a copy** of the file and **save it in the same folder (`params/`)**. Use the **species name** you came up with to **name the file**.
 

@@ -32,7 +32,7 @@ More often than not, you'll get a big THANK YOU! for your contribution and maybe
 
 Once they are happy with your changes they can go ahead an merge them by clicking on the **Merge pull request** button.
 
-This creates a new commit in the upstream repository, documenting the merge of your changes into thhe upstream code base.
+This creates a new commit in the upstream repository, documenting the merge of your changes into the upstream code base.
 
 <img src="/images/pr-merged.png" width="700px" />
 
