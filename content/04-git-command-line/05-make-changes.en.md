@@ -30,18 +30,21 @@ $ cp params/params_tmpl.R params/augustinus_vourinus.R
 
 #### Edit your parameters file with values of your choice
 
-Open the file you just created in your favourite text editor, edit it with parameters of your choice and save.
+Open the file you just created in your favourite text editor;
+we suggest `nano` if you don't already have a favourite because
+it is simple and likely to be already installed.
+Edit the file with parameters of your choice and save.
 
-eg from the command line:
+For example, from the command line:
 ```
 # Using the text editor nano
 $ nano params/augustinus_vourinus.R
 
-# or vim
+# or vim (if installed)
 $ vi params/augustinus_vourinus.R
 
-# or atom (if installed)
-$ atom params/augustinus_vourinus.R
+# or Visual Studio Code (if installed)
+$ code params/augustinus_vourinus.R
 ```
 
 The parameters each participants need to supply are:
