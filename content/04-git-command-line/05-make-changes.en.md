@@ -40,9 +40,6 @@ For example, from the command line:
 # Using the text editor nano
 $ nano params/augustinus_vourinus.R
 
-# or vim (if installed)
-$ vi params/augustinus_vourinus.R
-
 # or Visual Studio Code (if installed)
 $ code params/augustinus_vourinus.R
 ```
