@@ -17,18 +17,17 @@ Contributing to Open Source Software
 
 ------------------------------------------------------------------------
 
-I'm Bob, I like science, code and records.
+I'm Bob, I like science, people, code and records.
 
 ------------------------------------------------------------------------
 
-### Welcome to Hacktoberfest 2020!
+<img src="/images/hackfest2020.PNG" height=200/>
 
 - A one month celebration of Open Source on GitHub.
 
-- all about meaningful contribution to the open source ecosystem.
+- Meaningful contributions to the open source ecosystem.
 
-- Make *4* pull requests to a public repository on GitHub to get a t-shirt 
-    - don't need to be accepted
+- *4* pull requests to a public repository on GitHub to get a t-shirt or a tree (don't need to be accepted).
 
 ---
 
@@ -42,7 +41,7 @@ https://choosealicense.com/
 
 ### Examples
 
-Linux, Firefox, R & R packages, Python, [Apollo-11](https://github.com/chrislgarry/Apollo-11), [BBC Data Unit](https://github.com/BBC-Data-Unit), This Talk!
+[Linux](https://thelinuxfoundation.org), [Firefox](https://www.mozilla.org/en-GB/firefox/), [R & R packages](https://www.r-project.org/), [python](https://www.python.org/), [Apollo-11](https://github.com/chrislgarry/Apollo-11), [BBC Data Unit](https://github.com/BBC-Data-Unit), [This Talk](https://github.com/RSE-Sheffield/hacktoberfest2020)!
 
 ---
 
@@ -50,7 +49,7 @@ Linux, Firefox, R & R packages, Python, [Apollo-11](https://github.com/chrislgar
 
 - Open and reproducible research
 - Less need to reinvent
-- Lower costs
+- Lower costs, maybe
 
 ---
 
@@ -66,109 +65,98 @@ Linux, Firefox, R & R packages, Python, [Apollo-11](https://github.com/chrislgar
 
 ---
 
-### Tools: Git & GitHub
+Tools that enable version control and open collaboration...
 
-Tools that enable version control and open collaboration:
-- git
-- GitHub
-- GitKraken
-- RStudio
-- VSCode
+<a href="https://git-scm.com/"><img src="https://git-scm.com/images/logo@2x.png" height=100></a>
+<a href="https://github.com/"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" height=100></a>
+<a href="https://www.gitkraken.com/"><img src="https://www.gitkraken.com/downloads/brand-assets/gitkraken-logo-dark-hz.png" height=100></a>
+<a href="https://rstudio.com/"><img src="https://d33wubrfki0l68.cloudfront.net/62bcc8535a06077094ca3c29c383e37ad7334311/a263f/assets/img/logo.svg" height=100></a>
+<a href="https://code.visualstudio.com/"><img src="https://code.visualstudio.com/opengraphimg/opengraph-blog.png" height=100></a> 
+
++many more.
 
 
 ---
 
 ### Workflow
 
-<img src="https://camo.githubusercontent.com/fdf3ca7dc54cce834c2ee25a245d6e0bec66efb9/687474703a2f2f6a6c6f72642e75732f6769742d69742f6173736574732f696d67732f636c6f6e652e706e67" height="400">
-
 ![](https://cdn.crunchify.com/wp-content/uploads/2017/09/Github-WorkFlow-Tips-Crunchify-Tips.png)
+
+(Much) more on this later in breakout sessions.
 
 ---
 
 ## Open source is about people
 
-- Be nice! Often maintainers are volunteers
-  
-<img src="https://raw.githubusercontent.com/markdunning/talks/master/images/code-of-conduct1.png" height="300">
+- Follow codes of conduct [e.g. Docker](https://github.com/docker/code-of-conduct/blob/master/code-of-conduct-EN.md).
+- Follow contributing guidlelines [e.g. Docker](https://github.com/docker/compose/blob/master/CONTRIBUTING.md).
 
-- Don't waste time on projects where collaboration is difficult
+*Note to self - show people these links.*
 
 ---
 
-### Anatomy of GitHub Repo
+## Get Started with Hacktoberfest
 
-eg [`rdhs`](https://github.com/OJWatson/rdhs)
+- Sign up to [GitHub](https://github.com), register with [Hacktoberfest](https://hacktoberfest.digitalocean.com/)
 
-- README
-- Issues
-    - labels eg `help wanted`, `good first issue`, `hacktoberfest`
-    - [searching](https://help.github.com/articles/searching-issues-and-pull-requests/)
-- [Contributing.md](https://github.com/OJWatson/rdhs/blob/development/.github/CONTRIBUTING.md)
-    - Instructions for contribution
-- Code of Conduct
+- Find something to work on:
+    - search on GitHub
+    ```
+    label:hacktoberfest state:open language:R
+    ```
+    - Or [issuehub](http://issuehub.io/)
+  
+---
 
-<img src="https://raw.githubusercontent.com/markdunning/talks/master/images/code-of-conduct2.png" height=200>
+## Potential contributions
+
+- improving documentation,
+- making new examples,
+- adding tests,
+- adding functionality
+
+Work on something you use!
 
 ---
 
 ## Contribution Examples
 
-- Making change to Sheffield R repo
-https://github.com/SheffieldR/SheffieldR.github.io/pull/4
+Good:
 
---
+[Minor changes to fix a huge problem](https://github.com/SheffieldML/GPy/pull/842)
 
-- Suggesting changes to course materials
+Not so good (spam?):
 
-    + https://github.com/swcarpentry/r-novice-gapminder/pull/441
-
-- Update package to use tidyverse
-    + https://github.com/katrinleinweber/MWX-import/pull/4
-     
----
-
-
-## Potential contributions
-
-- improving documentation, 
-- making new examples, 
-- adding tests, 
-- adding functionality
-
-Work on something you use!
-
+[Minor wording changes](https://github.com/SheffieldML/GPy/pull/868)
 
 ---
-## Get Started with Hacktoberfest
 
-- Sign up to GitHub
---
-
-- Register w/ [Hacktoberfest](https://hacktoberfest.digitalocean.com/)
---
-
-- Find something to work on:
-    - Check hacktoberfest [website](https://hacktoberfest.digitalocean.com/)
-    - search on GitHub
-    ```
-    label:hacktoberfest state:open language:R
-    ```
----
-
-## Parting words
 ### Hacktoberfest guiding values:
 
-- Everyone is welcome
-- Quantity is fun, quality is key
-- Short term actions, long term impact
+#### Everyone is welcome! 
+
+<p style="font-size:50%">Participants in Hacktoberfest represented 151 countries and thousands of unique skill sets. This program welcomes everyone already who’s already part of the open source software community, and anyone who is interested in sectioning in.</p>
+
+#### Quantity is fun, quality is key.
+
+<p style="font-size:50%">Participating in Hacktoberfest leads to personal growth, professional opportunities, and community building. However, it all begins with meaningful contributions to open source software.</p>
+
+#### Short-term action, long-term impact. 
+
+<p style="font-size:50%">In the open source software community, we are standing on the shoulders of those who came before us. Your participation has a lasting effect on people and technology long after October. This is a voyage not a race.</p>
 
 ---
 
 ### Resources
 
-Video introduction to open source https://www.youtube.com/embed/Tyd0FO0tko8?rel=0
+Video [introduction to open source](https://www.youtube.com/embed/Tyd0FO0tko8?rel=0)
+
 **Getting Started with** [**git**](https://www.digitalocean.com/community/tutorials/how-to-contribute-to-open-source-getting-started-with-git)
-[**How To Create a Pull Request on GitHub**](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github): This tutorial will guide you through making a pull request to a Git repository through the command line so that you can contribute to open-source software projects.
-[**How To Rebase and Update a Pull Request**](https://www.digitalocean.com/community/tutorials/how-to-rebase-and-update-a-pull-request): This tutorial will guide you through some of the next steps you may need to take after you submit a pull request to an open-source software project.
+
+[**How To Create a Pull Request on GitHub**](https://www.digitalocean.com/community/tutorials/how-to-create-a-pull-request-on-github)
+
+[**How To Rebase and Update a Pull Request**](https://www.digitalocean.com/community/tutorials/how-to-rebase-and-update-a-pull-request)
+
 ---
+
+### Thanks for listening!
