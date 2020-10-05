@@ -41,7 +41,7 @@ https://choosealicense.com/
 
 ### Examples
 
-[Linux](https://thelinuxfoundation.org), [Firefox](https://www.mozilla.org/en-GB/firefox/), [R & R packages](https://www.r-project.org/), [python](https://www.python.org/), [Apollo-11](https://github.com/chrislgarry/Apollo-11), [BBC Data Unit](https://github.com/BBC-Data-Unit), [This Talk](https://github.com/RSE-Sheffield/hacktoberfest2020)!
+[Linux](https://thelinuxfoundation.org), [Firefox](https://www.mozilla.org/en-GB/firefox/), [R & R packages](https://www.r-project.org/), [python](https://www.python.org/), [Apollo-11](https://github.com/chrislgarry/Apollo-11), [vscode](https://github.com/microsoft/vscode), [This Talk](https://github.com/RSE-Sheffield/hacktoberfest2020)!
 
 ---
 
@@ -49,7 +49,8 @@ https://choosealicense.com/
 
 - Open and reproducible research
 - Less need to reinvent
-- Lower costs, maybe
+- Lower costs sometimes (e.g. cloud OS)
+- Find collaborators
 
 ---
 
