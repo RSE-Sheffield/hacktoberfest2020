@@ -22,7 +22,7 @@ home = [ "HTML", "RSS", "JSON"]
 
 [Languages]
 [Languages.en]
-title = "WORKSHOP TITLE"
+title = "Hacktoberfest Sheffield 2020"
 weight = 1
 languageName = "English"
 
