@@ -1,5 +1,5 @@
 +++
-title = "R & Rstudio"
+title = "Cloning and Collaborating with R & Rstudio"
 date = 2020-10-06T09:58:24+01:00
 weight = 5
 chapter = true
