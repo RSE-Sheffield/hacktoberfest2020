@@ -1,9 +1,16 @@
 ---
+chapter: true
+date: "2020-10-06T12:28:37+01:00"
+pre: <b> </b>
 title: Collaborating Intro
-weight: 1
+weight: 2
 ---
 
-Here we'll practice contributing code to someone else's repository via the website `GitHub` using a program called `Git`, from the command line.
+# Collaborating Intro
+
+So far, we've learnt how to **create repositories, commit files, and push/pull the files to a remote source like GitHub**.
+
+Here we'll **practice collaborating with someone else**.
 
 ## Forking, cloning, and pull requests
 
