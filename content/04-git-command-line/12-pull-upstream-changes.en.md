@@ -33,8 +33,13 @@ This tells us the names of the remote repositories we have configured `origin` a
 
 To pull the upstream changes from the **`RSE-Sheffield`** repository, run the following commands
 ```
+# check out the master branch
 $ git checkout master
-$ git fetch upstream
+
+# fetch commits from all configured remotes and remove any unused tracking branches
+$ git fetch --prune --all
+
+# merge commits from the `upstream/master` branch into your local `master` branch
 $ git merge upstream/master
 ```
 Git's default behaviour is to add these commits to the master branch in what is known as a "fast-forward merge". Find out more about [fast-forward git merging](https://ariya.io/2013/09/fast-forward-git-merge).
@@ -47,19 +52,19 @@ The **origin** remote is **your fork of the repository** that's labelled with yo
 
 If we run:
 ```
-$ git fetch origin
+$ git fetch --prune --all
 # followed by
 $ git status
 ```
-We can see, **it is now lagging behind** the upstream remote. That's because it's still missing all the files contributed by the other participants.
+We can see that your local repository **is now lagging behind** the upstream remote. That's because it's still missing all the files contributed by the other participants.
 
-To synchronise your **origin** remote, **Push**  the changes you've just pulled into your local repository by running:
+To update your **origin** remote with commits from the upstream repo, **Push**  the changes you've just fetched into your local repository by running:
 ```
 $ git push origin HEAD
 ```
 
 > ### Once you've pushed, all the repositories should now be showing as synced. :tada:
 
-## Run the analysis
+## Run the analysis (optional)
 
 To run the analysis, open the project in Rstudio, click on the `plot_trait_evolution.Rmd`, then click on the Knit button. This should render including everybody's species! See more on [Rmarkdown notebooks](https://rmarkdown.rstudio.com/authoring_quick_tour.html#Overview)
