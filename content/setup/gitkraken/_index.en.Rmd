@@ -1,6 +1,6 @@
 ---
 title: Gitkraken
-weight: 5
+weight: 4
 ---
 
 To install **GitKraken** download the correct binary for your system.
@@ -11,7 +11,7 @@ knitr::include_url("https://gitkraken.com/download")
 ```
 
 
-Then follow the [installation instructions](https://support.gitkraken.com/how-to-install/) provided on their website. 
+Then follow the [installation instructions](https://support.gitkraken.com/how-to-install/) provided on their website.
 
 
 In the installation instructions you'll see that you do not actually need to install **Git** separately to use GitKraken as it ships it's own Git framework, NodeGit, which is primarily developed and maintained by members of the GitKraken development team. The reason we asked you to install git is that if you wanted to use git in another setting (through the command line, or integrations with VS Code or Rstudio) you would need git installed on your system.

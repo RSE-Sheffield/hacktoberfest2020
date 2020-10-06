@@ -16,7 +16,7 @@ ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$", "index\\.html",
 baseName = "index"
 mediaType = "text/html"
 isHTML = true
-    
+
 [outputs]
 home = [ "HTML", "RSS", "JSON"]
 
@@ -29,7 +29,7 @@ languageName = "English"
 [[Languages.en.menu.shortcuts]]
 name = "<i class='fab fa-fw fa-github'></i> GitHub repo"
 identifier = "ds"
-url = "https://github.com/RSE-Sheffield/rse-workshop-materials-template"
+url = "https://github.com/RSE-Sheffield/hacktoberfest2020"
 weight = 10
 
 [[Languages.en.menu.shortcuts]]
@@ -48,7 +48,7 @@ url = "https://creativecommons.org/licenses/by/4.0/"
 weight = 40
 
 [params]
-  editURL = "https://github.com/RSE-Sheffield/rse-workshop-materials-template/edit/main/content/"
+  editURL = "https://github.com/RSE-Sheffield/hacktoberfest2020/edit/main/content/"
   description = "Hacktoberfest Sheffield 2020"
   author = "Sheffield RSE Team"
   showVisitedLinks = true
@@ -62,7 +62,7 @@ weight = 40
   [markup.goldmark]
     [markup.goldmark.renderer]
       unsafe = true
-      
+
 [params.reveal_hugo]
  theme = "white"
  load_default_plugins = false

@@ -1,11 +1,11 @@
 ---
 title: Git
-weight: 5
+weight: 6
 ---
 
 Follow the installation instructions according to your system:
 
- ### Windows 
+ ### Windows
 <a href="https://www.youtube.com/watch?v=339AEqk9c-8">Video Tutorial</a>
 <ol>
 <li>Download the Git for Windows <a href="https://git-for-windows.github.io/">installer</a>.</li>
@@ -82,7 +82,3 @@ install it via your distro's package manager. For Debian/Ubuntu run
 <code>sudo apt-get install git</code> and for Fedora run
 <code>sudo yum install git</code>.
 </p>
-
-
-
-
