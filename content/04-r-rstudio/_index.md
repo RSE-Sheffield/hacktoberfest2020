@@ -1,7 +1,7 @@
 +++
 title = "R & Rstudio"
 date = 2020-10-06T09:58:24+01:00
-weight = 5
+weight = 2
 chapter = true
 pre = "<b> </b>"
 +++

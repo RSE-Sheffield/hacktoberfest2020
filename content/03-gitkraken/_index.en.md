@@ -1,8 +1,8 @@
 ---
 chapter: true
-pre: <b>03. </b>
+pre: <b> </b>
 title: Cloning and Collaborating with GitKraken
-weight: 4
+weight: 3
 ---
 
 # Cloning and Collaborating

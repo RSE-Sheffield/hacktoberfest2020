@@ -1,6 +1,6 @@
 ---
 chapter: true
-pre: <b>04. </b>
+pre: <b> </b>
 title: Git Command Line
 weight: 4
 ---
