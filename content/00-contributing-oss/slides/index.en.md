@@ -27,7 +27,7 @@ I'm Bob, I like science, people, code and records.
 
 - Meaningful contributions to the open source ecosystem.
 
-- *4* pull requests to a public repository on GitHub to get a t-shirt or a tree (don't need to be accepted).
+- *4* pull requests to a public repository on GitHub to get a t-shirt or a tree ([new conditions apply](https://hacktoberfest.digitalocean.com/details#details)).
 
 ---
 
