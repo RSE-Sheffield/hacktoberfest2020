@@ -1,6 +1,6 @@
 ---
 title: R & Rstudio
-weight: 5
+weight: 3
 ---
 
 During the collaborative exercise and if you want to follow the R & Rstudio practical, we will collate materials from each participant which will feed into an R analysis. If you would like to run this analysis yourself locally, you will need to have **R** and **Rstudio** installed. This however is optional and not a requirement for you to complete the workshop.
