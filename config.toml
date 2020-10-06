@@ -1,7 +1,7 @@
 baseURL = "/"
 languageCode = "en-us"
-title = "WORKSHOP TITLE"
-description = "Materials for RSE Sheffield workshop on 'WORKSHOP TITLE'"
+title = "Hacktoberfest Sheffield 2020"
+description = "Materials for 'Hacktoberfest Sheffield 2020'"
 pygmentsUseClasses=true
 enableEmoji = true
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$", "index\\.html", '\.knit\.md$', '\.utf8\.md$']
@@ -49,8 +49,8 @@ weight = 40
 
 [params]
   editURL = "https://github.com/RSE-Sheffield/rse-workshop-materials-template/edit/main/content/"
-  description = "WORKSHOP TITLE"
-  author = "AUTHOR NAME(S), Sheffield RSE"
+  description = "Hacktoberfest Sheffield 2020"
+  author = "Sheffield RSE Team"
   showVisitedLinks = true
   disableBreadcrumb = false
   disableNextPrev = false
