@@ -1,4 +1,3 @@
-
 # Version control through Git, GitHub & GitKraken for researchers
 
 <!-- badges: start -->
@@ -21,8 +20,8 @@ The website is deployed by [Netlify](https://www.netlify.com/).
 
 ### Why these tools?
 
-Why use Hugo for both the website and slidedecks, and not, say Hugo+hugodown for pages and xaringan for slides?
-This way the source of slides is html produced by Hugo from Markdown content.
+Why use Hugo for both the website and slide decks, and not, say Hugo+hugodown for pages and xaringan for slides?
+This way the source of slides is HTML produced by Hugo from Markdown content.
 It allows me to use:
 
 * downlit syntax highlighting for slides created from R Markdown with hugodown output format;
