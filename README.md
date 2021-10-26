@@ -25,14 +25,14 @@ Why use Hugo for both the website and slidedecks, and not, say Hugo+hugodown for
 This way the source of slides is html produced by Hugo from Markdown content.
 It allows me to use:
 
-* downlit syntax highlighting for slides created from R Markdown with hugodown output format;
-* Chroma syntax highlighting for other languages;
-* emojis! `:grin:` works in slides;
+* downlit syntax highlighting for slides created from R Markdown with hugodown output format.
+* Chroma syntax highlighting for other languages.
+* emojis! `:grin:` works in slides.
 * Shortcodes in slides, should I choose to.
 
 Also, because slides are in the content, they are indexed by the Hugo learn theme so searchable!
 
 
-## Credits
+### Credits
 
 The workshop materials website template is based on the [hugo-theme-learn](https://github.com/matcornic/hugo-theme-learn), [reveal-hugo](https://github.com/dzello/reveal-hugo) Hugo themes and further work and configuration by Maëlle Salmon for her course site on [**Scientific blogging with R Markdown**](https://github.com/maelle/rmd-blogging-course).

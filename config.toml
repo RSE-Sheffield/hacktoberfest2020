@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "/" #enter url
 languageCode = "en-us"
 title = "Hacktoberfest Sheffield 2020"
 description = "Materials for 'Hacktoberfest Sheffield 2020'"
